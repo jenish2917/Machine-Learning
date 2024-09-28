@@ -1,0 +1,31 @@
+types of machine learning :
+- supervised :
+    -regression :
+        - idea : predict the value of a continuous output variable based on one or more input features .
+
+    -classification :
+        - idea : predict the value of a categorical output variable based on one or more input features .
+
+
+- unsupervised :
+    -clustering :
+        - idea : group similar data points into clusters based on their features .
+
+    - dimensionality reduction :
+        - idea : reduce the number of features in a dataset while preserving the most important information .
+    
+    - Anomaly ditection
+        - idea : identify data points that are significantly different from the rest of the data (outlires).
+
+    - association :
+        - idea : identify relationships between variables in a dataset .
+
+    - recommendation
+    - deep learning
+
+- semisupervised :
+    - idea : use a combination of labeled and unlabeled data to improve the accuracy of a model
+    - example : google photos 
+
+-  reinforcement learning :
+    - idea : learn from trial and error by interacting with an environment and receiving rewards or penalties for
