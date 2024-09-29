@@ -47,3 +47,19 @@ where to use :
 how to implement : 
 - from the linear model SDGRegressor method eith partial_fir()
 - River library, vowpal wabbit
+
+learning : 
+- memorizing 
+- generalizing 
+
+MLDLC
+- MLDLC is a process of developing and deploying machine learning models in a production environment.
+- Frame the problem
+- Gathering data
+- Data preprocessing
+- Exploratory Data Analysis
+- Feature Engineering and Selection
+- Model trainig, Evaluation and Selection
+- Model deployment and monitoring
+- Testing
+- Optimize 
