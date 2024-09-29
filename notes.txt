@@ -29,3 +29,21 @@ types of machine learning :
 
 -  reinforcement learning :
     - idea : learn from trial and error by interacting with an environment and receiving rewards or penalties for
+
+Batch learning :
+- the model that is trained on the entire dataset at once.
+
+online  learning :
+- the model that is trained on a single data point at a time.
+- prediction as well as trainig of the data at the time
+- youtube
+- incremental learning in the number of multiple small Batches
+
+where to use :
+- The program which is changes continuously changes whith rispect to time then online lea is more preferable (Stock market)
+- cost effective
+- fast in solution
+
+how to implement : 
+- from the linear model SDGRegressor method eith partial_fir()
+- River library, vowpal wabbit
