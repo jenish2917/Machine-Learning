@@ -63,3 +63,7 @@ MLDLC
 - Model deployment and monitoring
 - Testing
 - Optimize 
+
+Feature engineering:
+- Feature engineering is the process of using domain knowledge to extract from raw data. These feature can used to improve the performance of machine learning algorithm.
+ 
